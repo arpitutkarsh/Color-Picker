@@ -1,0 +1,73 @@
+html{
+    font-size: 20px;
+    color: aliceblue;
+    background-color: grey;
+}
+span{
+    display: block;
+}
+.canvas{
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    border: solid white 2px;
+    display: inline-block;
+    margin-left: 5px;
+}
+#gold{
+    
+    margin: 50px;
+    background-color: goldenrod;
+    cursor: progress;
+}
+#white{
+    margin: 50px;
+    background-color: white;
+    cursor: progress;
+
+}
+#blue{
+    margin: 50px;
+
+    background-color: blue;
+    cursor: progress;
+
+}
+#pink{
+    margin: 50px;
+
+    background-color: pink;
+    cursor: progress;
+}
+.text{
+    font-size: 40px;
+    font-style: italic;
+    text-decoration:  underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button .text1{
+    margin-top: 40px;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+
+.canvas .button1{
+    background-color: black;
+    margin: 100px auto 100px;
+    width: 80%;
+    border: solid 5px white;
+}
+.navbar{
+    
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
